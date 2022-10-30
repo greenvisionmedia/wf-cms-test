@@ -1,0 +1,16 @@
+.hello_world {
+  height: 69vh;
+}
+
+.text_block {
+  position: absolute;
+  left: 0%;
+  top: auto;
+  right: 0%;
+  bottom: 0%;
+  z-index: 10;
+}
+
+.slide {
+  position: relative;
+}
