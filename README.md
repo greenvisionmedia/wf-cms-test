@@ -15,8 +15,10 @@ There's one collection in the project called 'Products' that I used top populate
 ## REPO
 I exported the code for the project, it's in the folder called `CMSTEST/gv-cms-test.webflow`.  
   
-I also duplicated the project and ran the Udesly extension on it. I exported that code; that's in the folder called `UDESLYTEST/gv-udesly-test.webflow`. I ran THAT code through the udesly app, and got the resulting 11ty theme, it's in the folder called `UDESLYTEST/gv-udesly-test`  
+I also duplicated the project and ran the Udesly extension on it. I exported that code; that's in the folder called `UDESLYTEST/gv-udesly-test.webflow`.
   
-I also got the JSON at `webflow.com/api/sites/<project-name>/dom` for both projects and put that JSON in the corresponding folder.  
+I ran THAT code through the udesly app, and got the resulting 11ty theme, it's in the folder called `UDESLYTEST/gv-udesly-test`  
+  
+I also got the JSON at `webflow.com/api/sites/<project-name>/dom` for both projects and put that JSON in the corresponding folder. You can kind of see what the Udesly extension does, they're getting the node ID for each element and adding that to the element's custom attributes.
   
 Hope this all helps!
