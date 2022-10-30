@@ -1,6 +1,6 @@
 # wf-cms-test
 ## Explanation
-This is a test project I made for insight into how exporting webflow code works. It's in the GV sites folder, called CMS/NO-CMS
+This is a test project I made for insight into how exporting webflow code works. It's in the GV sites folder, called CMS/NO-CMS.  
 I made 4 pages:
   - A homepage with CMS functionality
   - A copy of that homepage, remade without CMS
