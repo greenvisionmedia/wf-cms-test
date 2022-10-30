@@ -1,6 +1,3 @@
-//Got this by navigating to webflow.com/api/sites/gv-cms-test/dom (in the same browser I was logged into Webflow)
-//I then ran it through a JSON formatter
-
 {
     "siteId":"635ebb26eb1da544059ed5b4",
     "userId":"62391d0d85ee817dcdc866e9",
@@ -1541,7 +1538,7 @@
     },
     "isCloneable":false,
     "siteProfileSlug":null,
-    "serverTime":1667156064433,
+    "serverTime":1667158928189,
     "allowScheduledSIP":false,
     "roles":{
        "site":"project_admin",
